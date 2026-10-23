@@ -3,6 +3,7 @@
 > Application web de gestion d'un service d'urgences hospitalier : triage des patients, suivi des lits et équipements, **banque de sang** (stock, donneurs, demandes), tableau de bord statistique, accès par rôle et journal d'activité.
 
 Projet universitaire (Licence 3 Informatique, Systèmes d'Information, UGB Saint-Louis) développé en **PHP (architecture MVC), MySQL, HTML/CSS et JavaScript**, sans framework.
+Démo en ligne : https://urgences-medicales-kane.wuaze.com
 
 ![Tableau de bord](docs/screenshots/01-tableau-de-bord.png)
 
