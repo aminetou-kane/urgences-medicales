@@ -1,0 +1,8 @@
+# Identifiants de la base de données : ne jamais publier
+config/config.php
+.env
+
+# Divers
+*.log
+.DS_Store
+Thumbs.db
